@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChikotiRaja
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning C#, Python, and improving my skills in competitive programming on platforms like LeetCode and CodeChef.
+- 🌱 I’m currently learning C, Python, Java and improving my skills in competitive programming on platforms like LeetCode and CodeChef.
 - 💼 Aspiring to apply my coding, debugging, and project management skills in real-world projects.
 - 🤝 Open to collaborating on interesting projects and contributing to open-source initiatives.
 
